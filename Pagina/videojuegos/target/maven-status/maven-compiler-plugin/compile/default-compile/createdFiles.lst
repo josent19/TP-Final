@@ -1,0 +1,7 @@
+com\mycompany\comidavnezolana\resources\JavaEE8Resource.class
+com\mycompany\comidavnezolana\JAXRSConfiguration.class
+web\ServletControlador.class
+data\Conexion.class
+entity\videoJuegos.class
+data\VideoJuegosDAO.class
+web\videoJuegosDAO.class
